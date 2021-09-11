@@ -1,0 +1,53 @@
+body {
+    background-color: #3B185F;
+    font-family: 'Glory', sans-serif;
+}
+
+h1{
+    color: #A12568;
+    text-align: center;
+}
+
+  a {
+    display: block;
+    padding: 8px;
+    color: #ad216c;
+    background-color: #2A0944;
+    text-decoration: none;
+    text-align: center;
+    border: #A12568 solid 1px;
+    border-radius: 10px;
+  }
+
+img {
+    border: black solid 1px;
+    border-radius: 500px;
+}
+
+div {
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+.aciklama1{
+ color: #FFF8E5;
+ text-align: center;
+}
+
+ul li {
+  text-align: center;
+  list-style: inside;
+  list-style-position: inside;
+  display: block;
+  font-size: 30px;
+}
+
+.diziaciklama {
+  font-size: 16px;
+}
+
+p{
+  color: #FFF8E5;
+}
